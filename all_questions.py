@@ -201,6 +201,7 @@ def question9():
     answers = {}
 
     # type: dict[string,float]
+    # keys: ['recall', 'precision', 'F-measure', 'accuracy']
     answers['(i) metrics'] = None
 
     # type: string
