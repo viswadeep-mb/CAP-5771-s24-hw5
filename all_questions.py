@@ -48,7 +48,7 @@ def question2():
     answers['(b) C'] = None
 
     # type: bool
-    answers['(b) A'] = None
+    answers['(b) D'] = None
 
     # type: eval_float
     # The formulas should only use the variable 'p'. The formulas should be
