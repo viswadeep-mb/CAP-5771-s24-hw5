@@ -142,7 +142,7 @@ def question6():
     answers['(c) Which metric?'] = 'TPR/FPR'
 
     # type: explain_string
-    answers['(c) explain'] = "Precision and recall favor Classifier C2 because of its higher recall, but they don't consider false positives. True positive rate and false positive rate give a fairer assessment, showing Classifier C2 higher recall but also its potential for more false positives. These measures are better for comparing performance when false positives matter"
+    answers['(c) explain'] = "Precision and recall favor Classifier C2 because of its higher recall, but they don't consider false positives. True positive rate and false positive rate give a fairer assessment, showing Classifier C2 higher recall but also its potential for more false positives. These measures are better for comparing performance when false positives matter."
     
     return answers
 
